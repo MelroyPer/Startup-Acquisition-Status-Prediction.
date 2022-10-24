@@ -25,7 +25,9 @@ The data provided by CrunchBase. Each row contains a Company’s Financial Infor
 #### 4. Feature Engineering
 
 Multicollinearity
+
 Imbalance Dataset
+
 Scaling
 
 #### 5. Modelling
