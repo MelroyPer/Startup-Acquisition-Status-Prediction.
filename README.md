@@ -1,5 +1,5 @@
 # Startup-Acquisition-Status-Prediction.
-Business Objective:
+##### Business Objective:
 
 	Given a startup's financial information, can we predict its current financial status?
 
