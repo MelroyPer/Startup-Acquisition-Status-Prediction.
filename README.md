@@ -33,21 +33,25 @@ Scaling
 ##### Logistic Regression
 
 Training Accuracy: 0.4861
+
 Testing Accuracy: 0.3663
 
 ###### Random Forrest Classifier
 
 Training Accuracy: 1.0
+
 Testing Accuracy: 0.9974
 
 ###### XGBoost
 
 Training Accuracy: 1.0
+
 Testing Accuracy : 0.9994
 
 ###### SVM
 
 Training Accuracy: 0.9963
+
 Testing Accuracy: 0.5023
 
 ###### 6. Pipeline
