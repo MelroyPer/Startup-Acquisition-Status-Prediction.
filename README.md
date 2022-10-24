@@ -32,25 +32,25 @@ Scaling
 
 #### 5. Modelling
 
-####### Logistic Regression
+###### Logistic Regression
 
 Training Accuracy: 0.4861
 
 Testing Accuracy: 0.3663
 
-####### Random Forrest Classifier
+###### Random Forrest Classifier
 
 Training Accuracy: 1.0
 
 Testing Accuracy: 0.9974
 
-######## XGBoost
+###### XGBoost
 
 Training Accuracy: 1.0
 
 Testing Accuracy : 0.9994
 
-####### SVM
+###### SVM
 
 Training Accuracy: 0.9963
 
