@@ -5,7 +5,7 @@ Business Objective:
 
 Methodology:
 
-	This section deals with the methodology followed to accomplish and achieve the goals of the project. Code snippets are shown here for reference purposes, but the entire code is available in the zip files. The methodology we followed is divided into main four parts: Data Collection, Data Preprocessing, EDA, Feature Engineering Data Modelling, pipeline, and Deployment 
+This section deals with the methodology followed to accomplish and achieve the goals of the project. Code snippets are shown here for reference purposes, but the entire code is available in the zip files. The methodology we followed is divided into main four parts: Data Collection, Data Preprocessing, EDA, Feature Engineering Data Modelling, pipeline, and Deployment 
 
 1. Data Collection:
 
