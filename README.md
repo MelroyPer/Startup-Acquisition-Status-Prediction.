@@ -2,13 +2,13 @@
 #### Business Objective:
 Given a startup's financial information, can we predict its current financial status?
 
-##### Methodology:
+#### Methodology:
 This section deals with the methodology followed to accomplish and achieve the goals of the project. Code snippets are shown here for reference purposes, but the entire code is available in the zip files. The methodology we followed is divided into main four parts: Data Collection, Data Preprocessing, EDA, Feature Engineering Data Modelling, pipeline, and Deployment 
 
 #### 1. Data Collection:
 The data provided by CrunchBase. Each row contains a Company’s Financial Information and is labeled with the company’s status (Operating, IPO, Acquired, Closed). This dataset is quite huge and thus it has 196553 rows and 44 columns.
 
-##### 2. Data Preprocessing:
+#### 2. Data Preprocessing:
 1. Each row represents one company and has its financial information such as founded_at, description, category_code, funding_total_usd, etc, and labeled with the company’s status (Operating, IPO, Acquired, Closed)
 2. removed unwanted columns which are irrelevant to our problem.
 3. Checked and Removed the columns which have more than 98% of missing values.
@@ -20,7 +20,7 @@ The data provided by CrunchBase. Each row contains a Company’s Financial Infor
 9. Removed duplicate columns from the dataset 
 10. Removed irrelevant columns
 
-##### 3. EDA
+#### 3. EDA
 
 #### 4. Feature Engineering
 
@@ -32,33 +32,33 @@ Scaling
 
 #### 5. Modelling
 
-##### Logistic Regression
+####### Logistic Regression
 
 Training Accuracy: 0.4861
 
 Testing Accuracy: 0.3663
 
-###### Random Forrest Classifier
+####### Random Forrest Classifier
 
 Training Accuracy: 1.0
 
 Testing Accuracy: 0.9974
 
-###### XGBoost
+######## XGBoost
 
 Training Accuracy: 1.0
 
 Testing Accuracy : 0.9994
 
-###### SVM
+####### SVM
 
 Training Accuracy: 0.9963
 
 Testing Accuracy: 0.5023
 
-###### 6. Pipeline
+#### 6. Pipeline
 	
 
-###### 7. Deployment
+#### 7. Deployment
 
 Created web app through Flask and deployed on heroku.
