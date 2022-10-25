@@ -32,33 +32,16 @@ Scaling
 
 #### 5. Modelling
 
-###### Logistic Regression
+Logistic Regression
 
-Training Accuracy: 0.4861
+Random Forrest Classifier
 
-Testing Accuracy: 0.3663
+XGBoost
 
-###### Random Forrest Classifier
-
-Training Accuracy: 1.0
-
-Testing Accuracy: 0.9974
-
-###### XGBoost
-
-Training Accuracy: 1.0
-
-Testing Accuracy : 0.9994
-
-###### SVM
-
-Training Accuracy: 0.9963
-
-Testing Accuracy: 0.5023
+SVM
 
 #### 6. Pipeline
 	
-
 #### 7. Deployment
 
 Created web app through Flask and deployed on heroku.
