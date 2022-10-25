@@ -62,4 +62,5 @@ Testing Accuracy: 0.5023
 #### 7. Deployment
 
 Created web app through Flask and deployed on heroku.
+
 [Startup.pdf](https://github.com/MelroyPer/Startup-Acquisition-Status-Prediction./files/9859717/Startup.pdf)
