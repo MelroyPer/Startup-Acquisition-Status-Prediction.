@@ -1,3 +1,4 @@
+[Report-Startup-Acquisition-Status-Prediction.pdf](https://github.com/MelroyPer/Startup-Acquisition-Status-Prediction./files/10100800/Report-Startup-Acquisition-Status-Prediction.pdf)
 # Startup-Acquisition-Status-Prediction.
 #### Business Objective:
 Given a startup's financial information, can we predict its current financial status?
