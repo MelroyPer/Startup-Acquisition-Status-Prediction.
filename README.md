@@ -48,5 +48,4 @@ SVM
 Created web app through Flask and deployed on heroku.
 
 ###### Detailed explanation of project is given bellow
-
-[Startup.pdf](https://github.com/MelroyPer/Startup-Acquisition-Status-Prediction./files/9859717/Startup.pdf)
+[Report-Startup-Acquisition-Status-Prediction.pdf](https://github.com/MelroyPer/Startup-Acquisition-Status-Prediction./files/10100811/Report-Startup-Acquisition-Status-Prediction.pdf)
